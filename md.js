@@ -32,11 +32,16 @@ ${answers.tests}
 ## Questions
 ${answers.questions}
 
-Contact Information
+Contact Me
 
 [![](http://www.github.com/${answers.username}.png?size=36) ${answers.username}](http://github.com/${answers.username}) on Github 
 
 [:email: ${answers.email}](mailto:${answers.email})
+
+
+<br/><br/>
+
+<span style="font-size:.75em">Made with [Markdown Generator](https://github.com/jsardinas/mdgen)</span>
 `;
 }
 

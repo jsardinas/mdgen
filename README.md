@@ -23,6 +23,7 @@ A full length, 1080p recording of the walk-through can be found [here](https://y
 
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
+
 This application is covered under ISC license.
 
 ## Contributing
@@ -39,3 +40,8 @@ Contact Information
 [![](http://www.github.com/jsardinas.png?size=36) jsardinas](http://github.com/jsardinas) on Github 
 
 [:email: javier.sardinas@gmail.com](mailto:javier.sardinas@gmail.com)
+
+
+<br/><br/>
+
+<span style="font-size:.75em">Made with [Markdown Generator](https://github.com/jsardinas/mdgen)</span>
